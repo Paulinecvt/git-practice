@@ -1,0 +1,1 @@
+let pets = ["Pony", "Horse", "Dog", "Cat", "Hamster"]
